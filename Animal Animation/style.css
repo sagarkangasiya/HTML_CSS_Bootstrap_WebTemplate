@@ -1,0 +1,22 @@
+body{
+    background-image: url(./img/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+.birds-img{
+    transform: scaleX(-1);
+    margin-bottom: 30%;
+    width: 10%;
+    border-radius: ;
+}
+.dog-img{
+    margin-top: 28%;
+    width: 20%;
+}
+.cat-img{
+    width: 10%;
+}
+.mouse-img{
+    width: 3%;
+}
