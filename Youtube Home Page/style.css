@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #ffffff;
+}
+.navbar{
+    display: inline-flex;    
+}
+.logo img{
+    width: 18%;
+}
+.menu{
+    margin-top: 25px;
+}
+.menu a{
+    text-decoration: none;
+    color: #000000;
+    font-size: 18px;
+    font-style: normal;
+    padding: 10px 17px;
+    background-color: #e4e4e4;
+    border-radius: 8px;
+    box-sizing: border-box;
+    cursor: pointer;
+}
+.menu a:hover{
+    background-color: #000000;
+    color: #ffffff;
+}
+a:active{
+    background-color: #000000;
+}
+
+
+/* //////////////////// videos css////////////////////////// */
+
+#videosection-1{
+    margin-left: 50px;
+}
+.videos{   
+    width: 450px;
+    height: 300px;
+    padding: 20px 1px;
+    margin: 0px 8px;
+    
+}
